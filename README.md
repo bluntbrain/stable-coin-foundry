@@ -55,7 +55,6 @@ forge test -vvv
 
 - Rigorous testing with 100% coverage
 - Formal verification of critical functions
-- Multiple security audits (pending)
 - Comprehensive invariant testing
 
 ## Local Development
@@ -78,10 +77,6 @@ forge install
 ```bash
 forge build
 ```
-
-## Contributing
-
-Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
